@@ -1,0 +1,2 @@
+# SQL-Intermedio
+Solved exercises
